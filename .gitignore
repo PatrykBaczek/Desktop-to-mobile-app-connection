@@ -1,3 +1,4 @@
 /python/env
 /python/__pycache__
 /python/*.json
+/python/conn.py
